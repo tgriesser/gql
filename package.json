@@ -1,6 +1,6 @@
 {
   "name": "@playlyfe/gql",
-  "version": "0.0.0-development",
+  "version": "2.7.0",
   "description": "gql service and tools",
   "main": "lib/index.js",
   "publishConfig": {
